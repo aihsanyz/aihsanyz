@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali İhsan Yılmaz
+# 👋 Hi, I'm Ali ihsan Yılmaz
 **Software Developer & Indie Builder**
 
 Coding since 2001, shipping professionally since 2009. I build scalable SaaS platforms, AI-powered tools, and open-source solutions with a focus on clean architecture and developer experience. Currently exploring AI agents & developer productivity tools.
