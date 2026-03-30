@@ -12,7 +12,7 @@ Coding since 2001, shipping professionally since 2009. I build scalable SaaS pla
 - **TypeScript:** End-to-end type safety across the full stack.
 - **Docker & DevOps:** Containerized deployments, self-hosted infrastructure, CI/CD pipelines.
 - **SQL Databases & Redis:** Database design, caching strategies, and data modeling.
-- **Rust:** Experimenting with high-performance microservices for high-traffic scenarios.
+- **Golang & Rust:** High-performance microservices for high-traffic scenarios.
 
 ## 💻 Frontend & Modern Web
 - **React & Next.js:** Production-grade web applications with SSR/SSG.
