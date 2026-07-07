@@ -39,5 +39,5 @@ Coding since 2001, shipping professionally since 2009. I build scalable SaaS pla
 ## 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/aihsan.com-000?style=flat-square&logo=safari&logoColor=white)](https://aihsan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aihsanyilmaz/)
-[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/aihsan_yilmaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aihsanyz/)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/aihsanyz)
